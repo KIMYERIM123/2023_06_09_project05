@@ -154,6 +154,10 @@
   text-align: center;
 }
 
+.footer .footer_wrap {
+  padding: 0 15px;
+}
+
 .footer address {
   margin: 0 0 10px 0;
   font-size: 14px;
